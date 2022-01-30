@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:herpes_wood_planks"
+    },
+    "1": {
+      "item": "cumzone:altanium_ingot"
+    },
+    "2": {
+      "item": "cumzone:herpes_wood_planks"
+    },
+    "3": {
+      "item": "cumzone:herpes_wood_planks"
+    },
+    "4": {
+      "item": "cumzone:herpes_wood_planks"
+    },
+    "5": {
+      "item": "cumzone:herpes_wood_planks"
+    },
+    "7": {
+      "item": "cumzone:herpes_wood_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:shield",
+    "count": 1
+  }
+}

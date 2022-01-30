@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:item_1"
+    },
+    "1": {
+      "item": "cumzone:item_1"
+    },
+    "2": {
+      "item": "cumzone:item_1"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cumzone:condom_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel_-_2022-01-02t044547.280",
+    "customModelName": "Normal",
+    "name": "Straight Pride Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 30,
+    "efficiency": 80.0,
+    "attackSpeed": 1.0,
+    "enchantability": 140,
+    "damageVsEntity": 8.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Item10"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

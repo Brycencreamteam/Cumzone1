@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "up": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "north": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "east": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "south": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "west": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182",
+    "particle": "cumzone:blocks/imported_piskel_-_2021-12-22t203045.182"
+  }
+}

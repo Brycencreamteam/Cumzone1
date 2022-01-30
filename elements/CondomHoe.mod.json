@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel_-_2021-12-05t013213.582",
+    "customModelName": "Normal",
+    "name": "Condom Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 17,
+    "damageVsEntity": 1.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Item1"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

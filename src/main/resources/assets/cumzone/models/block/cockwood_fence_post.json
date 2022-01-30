@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "cumzone:blocks/imported_piskel_-_2021-12-05t022952.291",
+    "particle": "cumzone:blocks/imported_piskel_-_2021-12-05t022952.291"
+  }
+}

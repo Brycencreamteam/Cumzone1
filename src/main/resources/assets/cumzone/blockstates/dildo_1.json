@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "cumzone:block/dildo_1",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "cumzone:block/dildo_1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cumzone:block/dildo_1",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "cumzone:block/dildo_1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "cumzone:block/dildo_1"
+    },
+    "facing=west": {
+      "model": "cumzone:block/dildo_1",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

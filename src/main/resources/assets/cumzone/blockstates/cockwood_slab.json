@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cumzone:block/cockwood_slab"
+    },
+    "type=top": {
+      "model": "cumzone:block/cockwood_slab_top"
+    },
+    "type=double": {
+      "model": "cumzone:block/cockwood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cumzone:blockcumzone_3"
+    }
+  ],
+  "result": {
+    "item": "cumzone:cockwood_planks",
+    "count": 4
+  }
+}

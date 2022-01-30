@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "cumzone:blocks/imported_piskel_-_2021-12-25t011638.563",
+    "top": "cumzone:blocks/imported_piskel_-_2021-12-25t011623.365"
+  }
+}

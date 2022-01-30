@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:aidswood_log"
+    }
+  ],
+  "result": {
+    "item": "cumzone:aids_wood_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "cumzone:blocks/imported_piskel_-_2021-12-31t032706.026",
+    "particle": "cumzone:blocks/imported_piskel_-_2021-12-31t032706.026"
+  }
+}

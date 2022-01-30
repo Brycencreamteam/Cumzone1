@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Biome4"
+      },
+      {
+        "value": "CUSTOM:Biome5"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Blockcumzone12"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Block7"
+    },
+    "portalParticles": {
+      "value": "SOUL_FIRE_FLAME"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Pure Aids",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "imported_piskel_-_2021-12-22t202416.553",
+    "portalTexture": "imported_piskel_-_2021-12-31t021745.827",
+    "enablePortal": true
+  }
+}

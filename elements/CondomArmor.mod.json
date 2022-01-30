@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "imported_piskel_-_2021-12-04t234625.565",
+    "enableBody": true,
+    "textureBody": "imported_piskel_-_2021-12-04t234829.497",
+    "enableLeggings": true,
+    "textureLeggings": "imported_piskel_-_2021-12-04t235003.687",
+    "enableBoots": true,
+    "textureBoots": "imported_piskel_-_2021-12-04t235122.333",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "cum_",
+    "helmetName": "Condom Helmet",
+    "bodyName": "Condom Chestplate",
+    "leggingsName": "Condom Leggings",
+    "bootsName": "Condom Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelsteve",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "kz_dick.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 5,
+    "damageValueBody": 9,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 4,
+    "enchantability": 20,
+    "toughness": 1.2000000000000002,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Item1"
+      }
+    ]
+  }
+}

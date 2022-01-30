@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:item_10"
+    },
+    "2": {
+      "item": "cumzone:item_10"
+    },
+    "3": {
+      "item": "cumzone:item_10"
+    },
+    "5": {
+      "item": "cumzone:item_10"
+    }
+  },
+  "result": {
+    "item": "cumzone:straight_armor_boots",
+    "count": 1
+  }
+}

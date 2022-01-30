@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "imported_piskel_-_2022-01-17t194549.690",
+    "name": "The Untold Story of Jerome",
+    "description": "A Tale of Old",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:untoldstory"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

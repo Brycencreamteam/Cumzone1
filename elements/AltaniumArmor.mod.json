@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "imported_piskel_-_2021-12-06t190513.287",
+    "enableBody": true,
+    "textureBody": "imported_piskel_-_2021-12-06t190533.021",
+    "enableLeggings": true,
+    "textureLeggings": "imported_piskel_-_2021-12-06t190553.998",
+    "enableBoots": true,
+    "textureBoots": "imported_piskel_-_2021-12-06t190620.958",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "altanium_",
+    "helmetName": "Altanium Helmet",
+    "bodyName": "Altanium Chestplate",
+    "leggingsName": "Altanium Leggings",
+    "bootsName": "Altanium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 28,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 3,
+    "enchantability": 14,
+    "toughness": 1.7000000000000002,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AltaniumIngot"
+      }
+    ]
+  }
+}

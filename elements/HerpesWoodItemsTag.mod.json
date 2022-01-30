@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HerpesWoodWood"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "herpeswood_log",
+    "namespace": "forge"
+  }
+}

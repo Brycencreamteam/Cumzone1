@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cumzone:blocks/imported_piskel_-_2021-12-31t022441.4111",
+    "particle": "cumzone:blocks/imported_piskel_-_2021-12-31t022441.4111"
+  }
+}

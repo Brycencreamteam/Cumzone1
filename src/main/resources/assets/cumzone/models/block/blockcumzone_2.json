@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cumzone:blocks/dirt",
+    "up": "cumzone:blocks/dirt",
+    "north": "cumzone:blocks/dirt",
+    "east": "cumzone:blocks/dirt",
+    "south": "cumzone:blocks/dirt",
+    "west": "cumzone:blocks/dirt",
+    "particle": "cumzone:blocks/dirt"
+  }
+}

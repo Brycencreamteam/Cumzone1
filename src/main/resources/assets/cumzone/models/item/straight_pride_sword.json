@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cumzone:items/imported_piskel_-_2022-01-02t042715.705"
+  }
+}

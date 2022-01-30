@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone89"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Blockcumzone86"
+    },
+    "name": "recipe_88",
+    "namespace": "mod"
+  }
+}

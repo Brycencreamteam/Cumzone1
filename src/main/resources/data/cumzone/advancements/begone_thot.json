@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "cumzone:blockcumzone"
+    },
+    "title": {
+      "translate": "advancements.begone_thot.title"
+    },
+    "description": {
+      "translate": "advancements.begone_thot.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "begone_thot": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "cumzone:dimension_1"
+      }
+    }
+  }
+}

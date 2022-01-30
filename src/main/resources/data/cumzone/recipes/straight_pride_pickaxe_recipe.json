@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:item_10"
+    },
+    "1": {
+      "item": "cumzone:item_10"
+    },
+    "2": {
+      "item": "cumzone:item_10"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cumzone:straight_pride_pickaxe",
+    "count": 1
+  }
+}

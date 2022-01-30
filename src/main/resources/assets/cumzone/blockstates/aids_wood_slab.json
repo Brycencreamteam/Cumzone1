@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cumzone:block/aids_wood_slab"
+    },
+    "type=top": {
+      "model": "cumzone:block/aids_wood_slab_top"
+    },
+    "type=double": {
+      "model": "cumzone:block/aids_wood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 0.7,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "cumzone:straight_ore"
+  },
+  "result": {
+    "item": "cumzone:item_17"
+  }
+}

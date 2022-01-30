@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cumzone:blockcumzone_8"
+  },
+  "result": "cumzone:block_76"
+}

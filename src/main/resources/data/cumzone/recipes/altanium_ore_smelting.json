@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.9099999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "cumzone:altanium_ore"
+  },
+  "result": {
+    "item": "cumzone:altanium_ingot"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "piano1": {
+    "category": "neutral",
+    "subtitle": "subtitles.piano1",
+    "sounds": [
+      {
+        "name": "cumzone:video-1638643110",
+        "stream": false
+      }
+    ]
+  },
+  "jizzardhurt1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jizzardhurt1",
+        "stream": false
+      }
+    ]
+  },
+  "jizzarddeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jizzarddeath1",
+        "stream": false
+      }
+    ]
+  },
+  "jizzardambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jizzardambient",
+        "stream": false
+      }
+    ]
+  },
+  "reneehurt1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:reneehurt",
+        "stream": false
+      }
+    ]
+  },
+  "reneeambient1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:reneeambient",
+        "stream": false
+      }
+    ]
+  },
+  "reneedeath1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:reneedeath1",
+        "stream": false
+      }
+    ]
+  },
+  "kyrahurt1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kyrahurt1",
+        "stream": false
+      }
+    ]
+  },
+  "kyraambient1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kyraambient",
+        "stream": false
+      }
+    ]
+  },
+  "kyradeath1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kyradeath",
+        "stream": false
+      }
+    ]
+  },
+  "kittenhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kittenhurt",
+        "stream": false
+      }
+    ]
+  },
+  "kittendeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kittendeath",
+        "stream": false
+      }
+    ]
+  },
+  "kittenambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kittenambient",
+        "stream": false
+      }
+    ]
+  },
+  "bullambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:bullambient",
+        "stream": false
+      }
+    ]
+  },
+  "bulldeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:bulldeath",
+        "stream": false
+      }
+    ]
+  },
+  "bullhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:bullhurt",
+        "stream": false
+      }
+    ]
+  },
+  "sugmahurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:sugmahurt",
+        "stream": false
+      }
+    ]
+  },
+  "sugmaambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:sugmaambient",
+        "stream": false
+      }
+    ]
+  },
+  "sugmadeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:sugmadeath",
+        "stream": false
+      }
+    ]
+  },
+  "bigballs1": {
+    "category": "music",
+    "subtitle": "subtitles.bigballs1",
+    "sounds": [
+      {
+        "name": "cumzone:3_big_balls_revamped_better_quality",
+        "stream": true
+      }
+    ]
+  },
+  "blackairforces1": {
+    "category": "neutral",
+    "subtitle": "subtitles.blackairforces1",
+    "sounds": [
+      {
+        "name": "cumzone:digbargayraps-_black_air_force_energy_ft._kolossalkocks",
+        "stream": false
+      }
+    ]
+  },
+  "aidsmusic1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cumzone:aidsmusic",
+        "stream": true
+      }
+    ]
+  },
+  "untoldstory": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cumzone:untold_story_of_jerome",
+        "stream": true
+      }
+    ]
+  },
+  "kiannadeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kiandeath1",
+        "stream": false
+      }
+    ]
+  },
+  "kiannahurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kianhurt",
+        "stream": false
+      }
+    ]
+  },
+  "kiannaambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:kianlive1",
+        "stream": false
+      }
+    ]
+  },
+  "retradambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:retradambient",
+        "stream": false
+      }
+    ]
+  },
+  "retraddeath": {
+    "category": "neutral",
+    "subtitle": "subtitles.retraddeath",
+    "sounds": [
+      {
+        "name": "cumzone:retraddeath",
+        "stream": false
+      }
+    ]
+  },
+  "retradhurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.retradhurt",
+    "sounds": [
+      {
+        "name": "cumzone:retradhurt",
+        "stream": false
+      }
+    ]
+  },
+  "jeromeambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jeromeambient",
+        "stream": false
+      }
+    ]
+  },
+  "jeromedeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jeromedeath",
+        "stream": false
+      }
+    ]
+  },
+  "jeromehurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cumzone:jeromehurt",
+        "stream": false
+      }
+    ]
+  }
+}

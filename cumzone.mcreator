@@ -1,0 +1,2982 @@
+{
+  "mod_elements": [
+    {
+      "name": "Blockcumzone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone"
+    },
+    {
+      "name": "Blockcumzone1",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_1"
+    },
+    {
+      "name": "Fluidcumzone1",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluidcumzone_1",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Dimension1",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_1",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Blockcumzone2",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_2"
+    },
+    {
+      "name": "Biomemod1",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biomemod_1"
+    },
+    {
+      "name": "Biomemod2",
+      "type": "biome",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biomemod_2"
+    },
+    {
+      "name": "Recipe1",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_1"
+    },
+    {
+      "name": "Biome3test",
+      "type": "biome",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biome_3test"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "ValidSpawnBlocks",
+      "type": "tag",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valid_spawn_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "Item1",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_1"
+    },
+    {
+      "name": "CondomArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_armor_helmet_recipe"
+    },
+    {
+      "name": "CondomArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_armor_body_recipe"
+    },
+    {
+      "name": "CondomArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_armor_leggings_recipe"
+    },
+    {
+      "name": "CondomArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_armor_boots_recipe"
+    },
+    {
+      "name": "CondomPickaxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_pickaxe"
+    },
+    {
+      "name": "CondomAxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_axe"
+    },
+    {
+      "name": "CondomSword",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_sword"
+    },
+    {
+      "name": "CondomShovel",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_shovel"
+    },
+    {
+      "name": "CondomHoe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_hoe"
+    },
+    {
+      "name": "CondomPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_pickaxe_recipe"
+    },
+    {
+      "name": "CondomAxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_axe_recipe"
+    },
+    {
+      "name": "CondomSwordRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_sword_recipe"
+    },
+    {
+      "name": "CondomShovelRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_shovel_recipe"
+    },
+    {
+      "name": "CondomHoeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_hoe_recipe"
+    },
+    {
+      "name": "LatexOre",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "latex_ore"
+    },
+    {
+      "name": "LatexOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "latex_ore_block_recipe"
+    },
+    {
+      "name": "Blockcumzone6",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_6"
+    },
+    {
+      "name": "CockwoodWood",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_wood"
+    },
+    {
+      "name": "CockwoodPlanks",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_planks"
+    },
+    {
+      "name": "CockwoodStairs",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_stairs"
+    },
+    {
+      "name": "CockwoodSlab",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_slab"
+    },
+    {
+      "name": "CockwoodFence",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_fence"
+    },
+    {
+      "name": "CockwoodFenceGate",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_fence_gate"
+    },
+    {
+      "name": "CockwoodPressurePlate",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_pressure_plate"
+    },
+    {
+      "name": "CockwoodButton",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_button"
+    },
+    {
+      "name": "CockwoodItemsTag",
+      "type": "tag",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_items_tag"
+    },
+    {
+      "name": "CockwoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_wood_recipe"
+    },
+    {
+      "name": "CockwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_planks_recipe"
+    },
+    {
+      "name": "CockwoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_stairs_recipe"
+    },
+    {
+      "name": "CockwoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_slab_recipe"
+    },
+    {
+      "name": "CockwoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_fence_recipe"
+    },
+    {
+      "name": "CockwoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_fence_gate_recipe"
+    },
+    {
+      "name": "CockwoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_pressure_plate_recipe"
+    },
+    {
+      "name": "CockwoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_button_recipe"
+    },
+    {
+      "name": "CockwoodStickRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwood_stick_recipe"
+    },
+    {
+      "name": "Blockcumzone3",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_3"
+    },
+    {
+      "name": "Blockcumzone4",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_4"
+    },
+    {
+      "name": "Blockcumzone8",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_8"
+    },
+    {
+      "name": "RecipeW",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w"
+    },
+    {
+      "name": "RecipeW1",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_1"
+    },
+    {
+      "name": "RecipeW2",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_2"
+    },
+    {
+      "name": "RecipeW3",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_3"
+    },
+    {
+      "name": "RecipeW4",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_4"
+    },
+    {
+      "name": "RecipeW5",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_5"
+    },
+    {
+      "name": "RecipeW6",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_w_6"
+    },
+    {
+      "name": "Recipe2",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_2"
+    },
+    {
+      "name": "SmeltRW",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smelt_rw"
+    },
+    {
+      "name": "Cockwoods",
+      "type": "fuel",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cockwoods"
+    },
+    {
+      "name": "RecipeS",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s"
+    },
+    {
+      "name": "RecipeS1",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_1"
+    },
+    {
+      "name": "RecipeS2",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_2"
+    },
+    {
+      "name": "RecipeS3",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_3"
+    },
+    {
+      "name": "RecipeS4",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_4"
+    },
+    {
+      "name": "RecipeS5",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_5"
+    },
+    {
+      "name": "RecipeS6",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_s_6"
+    },
+    {
+      "name": "RecipeSF",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sf"
+    },
+    {
+      "name": "Recipe3",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_3"
+    },
+    {
+      "name": "AltaniumIngot",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_ingot"
+    },
+    {
+      "name": "AltaniumOre",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_ore"
+    },
+    {
+      "name": "AltaniumBlock",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_block"
+    },
+    {
+      "name": "AltaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_ore_block_recipe"
+    },
+    {
+      "name": "AltaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_block_ore_recipe"
+    },
+    {
+      "name": "AltaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_ore_smelting"
+    },
+    {
+      "name": "AltaniumPickaxe",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_pickaxe"
+    },
+    {
+      "name": "AltaniumAxe",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_axe"
+    },
+    {
+      "name": "AltaniumSword",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_sword"
+    },
+    {
+      "name": "AltaniumShovel",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_shovel"
+    },
+    {
+      "name": "AltaniumHoe",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_hoe"
+    },
+    {
+      "name": "AltaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_pickaxe_recipe"
+    },
+    {
+      "name": "AltaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_axe_recipe"
+    },
+    {
+      "name": "AltaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_sword_recipe"
+    },
+    {
+      "name": "AltaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_shovel_recipe"
+    },
+    {
+      "name": "AltaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_hoe_recipe"
+    },
+    {
+      "name": "RecipeA1",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_1"
+    },
+    {
+      "name": "RecipeA2",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_2"
+    },
+    {
+      "name": "AltaniumArmor",
+      "type": "armor",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AltaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_armor_helmet_recipe"
+    },
+    {
+      "name": "AltaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_armor_body_recipe"
+    },
+    {
+      "name": "AltaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_armor_leggings_recipe"
+    },
+    {
+      "name": "AltaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "altanium_armor_boots_recipe"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_base_block_blocks"
+    },
+    {
+      "name": "Recipe9",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_9"
+    },
+    {
+      "name": "CondomArmor",
+      "type": "armor",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condom_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Shield1",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shield_1"
+    },
+    {
+      "name": "Shield4",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shield_4"
+    },
+    {
+      "name": "Blockcumzone9",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_9"
+    },
+    {
+      "name": "Cumzoneitem1",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cumzoneitem_1"
+    },
+    {
+      "name": "Recipe86",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_86"
+    },
+    {
+      "name": "Recipe87",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_87"
+    },
+    {
+      "name": "Entity1",
+      "type": "livingentity",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_1"
+    },
+    {
+      "name": "Structure21",
+      "type": "structure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_21"
+    },
+    {
+      "name": "Structure3",
+      "type": "structure",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_3"
+    },
+    {
+      "name": "Entity2",
+      "type": "livingentity",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_2"
+    },
+    {
+      "name": "Item89",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_89"
+    },
+    {
+      "name": "Block7",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_7"
+    },
+    {
+      "name": "Recipe5",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_5"
+    },
+    {
+      "name": "Entity3",
+      "type": "livingentity",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_3"
+    },
+    {
+      "name": "Entity4",
+      "type": "livingentity",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_4"
+    },
+    {
+      "name": "Structure4",
+      "type": "structure",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_4"
+    },
+    {
+      "name": "Lapis",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis"
+    },
+    {
+      "name": "Recipe4",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_4"
+    },
+    {
+      "name": "Structure2",
+      "type": "structure",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_2"
+    },
+    {
+      "name": "Blockcumzone5",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_5"
+    },
+    {
+      "name": "Recipe6",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_6"
+    },
+    {
+      "name": "Recipe7",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_7"
+    },
+    {
+      "name": "Structure1",
+      "type": "structure",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "structure_1"
+    },
+    {
+      "name": "Entity5",
+      "type": "livingentity",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_5"
+    },
+    {
+      "name": "Enity6",
+      "type": "livingentity",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enity_6"
+    },
+    {
+      "name": "Blockcumzone7",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_7"
+    },
+    {
+      "name": "Blockcumzone10",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_10"
+    },
+    {
+      "name": "Recipe8",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_8"
+    },
+    {
+      "name": "Recipe82",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_82"
+    },
+    {
+      "name": "Recipe10",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_10"
+    },
+    {
+      "name": "Recipe102",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_102"
+    },
+    {
+      "name": "Recipe11",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_11"
+    },
+    {
+      "name": "Recipe112",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_112"
+    },
+    {
+      "name": "Blockcumzone11",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_11"
+    },
+    {
+      "name": "Recipe12",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_12"
+    },
+    {
+      "name": "Recipe13",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_13"
+    },
+    {
+      "name": "Recipe111",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_111"
+    },
+    {
+      "name": "Recipe1112",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_1112"
+    },
+    {
+      "name": "Gui1",
+      "type": "gui",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui_1"
+    },
+    {
+      "name": "Blockcumzone12",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_12"
+    },
+    {
+      "name": "Blockcumzone13",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_13"
+    },
+    {
+      "name": "Blockcumzone14",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_14"
+    },
+    {
+      "name": "Blockcumzone15",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_15"
+    },
+    {
+      "name": "Blockcumzone16",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_16"
+    },
+    {
+      "name": "Biome4",
+      "type": "biome",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biome_4"
+    },
+    {
+      "name": "Biome5",
+      "type": "biome",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biome_5"
+    },
+    {
+      "name": "Dimension2",
+      "type": "dimension",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_2",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "AidsWoodWood",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_wood"
+    },
+    {
+      "name": "AidsWoodLog",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_log"
+    },
+    {
+      "name": "AidsWoodPlanks",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_planks"
+    },
+    {
+      "name": "AidsWoodLeaves",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_leaves"
+    },
+    {
+      "name": "AidsWoodStairs",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_stairs"
+    },
+    {
+      "name": "AidsWoodSlab",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_slab"
+    },
+    {
+      "name": "AidsWoodFence",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_fence"
+    },
+    {
+      "name": "AidsWoodFenceGate",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_fence_gate"
+    },
+    {
+      "name": "AidsWoodPressurePlate",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_pressure_plate"
+    },
+    {
+      "name": "AidsWoodButton",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_button"
+    },
+    {
+      "name": "AidsWoodItemsTag",
+      "type": "tag",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_items_tag"
+    },
+    {
+      "name": "AidsWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_wood_recipe"
+    },
+    {
+      "name": "AidsWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_planks_recipe"
+    },
+    {
+      "name": "AidsWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_stairs_recipe"
+    },
+    {
+      "name": "AidsWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_slab_recipe"
+    },
+    {
+      "name": "AidsWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_fence_recipe"
+    },
+    {
+      "name": "AidsWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_fence_gate_recipe"
+    },
+    {
+      "name": "AidsWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "AidsWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_button_recipe"
+    },
+    {
+      "name": "AidsWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aids_wood_stick_recipe"
+    },
+    {
+      "name": "HerpesWoodWood",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_wood"
+    },
+    {
+      "name": "HerpesWoodLog",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_log"
+    },
+    {
+      "name": "HerpesWoodPlanks",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_planks"
+    },
+    {
+      "name": "HerpesWoodLeaves",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_leaves"
+    },
+    {
+      "name": "HerpesWoodStairs",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_stairs"
+    },
+    {
+      "name": "HerpesWoodSlab",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_slab"
+    },
+    {
+      "name": "HerpesWoodFence",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_fence"
+    },
+    {
+      "name": "HerpesWoodFenceGate",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_fence_gate"
+    },
+    {
+      "name": "HerpesWoodPressurePlate",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_pressure_plate"
+    },
+    {
+      "name": "HerpesWoodButton",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_button"
+    },
+    {
+      "name": "HerpesWoodItemsTag",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_items_tag"
+    },
+    {
+      "name": "HerpesWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_wood_recipe"
+    },
+    {
+      "name": "HerpesWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_planks_recipe"
+    },
+    {
+      "name": "HerpesWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_stairs_recipe"
+    },
+    {
+      "name": "HerpesWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_slab_recipe"
+    },
+    {
+      "name": "HerpesWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_fence_recipe"
+    },
+    {
+      "name": "HerpesWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_fence_gate_recipe"
+    },
+    {
+      "name": "HerpesWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "HerpesWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_button_recipe"
+    },
+    {
+      "name": "HerpesWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "herpes_wood_stick_recipe"
+    },
+    {
+      "name": "GARBAGEDUMP",
+      "type": "biome",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "garbagedump"
+    },
+    {
+      "name": "Item7",
+      "type": "item",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_7"
+    },
+    {
+      "name": "RecipeV1",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_v_1"
+    },
+    {
+      "name": "BegoneThot",
+      "type": "achievement",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "begone_thot"
+    },
+    {
+      "name": "Advancement1",
+      "type": "achievement",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "advancement_1"
+    },
+    {
+      "name": "Item8",
+      "type": "item",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_8"
+    },
+    {
+      "name": "RecipeV2",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_v_2"
+    },
+    {
+      "name": "Block8",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_8"
+    },
+    {
+      "name": "Blockcumzone17",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_17"
+    },
+    {
+      "name": "Recipe14",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_14"
+    },
+    {
+      "name": "Recipe15",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_15"
+    },
+    {
+      "name": "Recipe16",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_16"
+    },
+    {
+      "name": "Item9",
+      "type": "item",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_9"
+    },
+    {
+      "name": "Recipe17",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_17"
+    },
+    {
+      "name": "Recipe18",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_18"
+    },
+    {
+      "name": "Recipe19",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_19"
+    },
+    {
+      "name": "RecipeAH1",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_1"
+    },
+    {
+      "name": "RecipeAH2",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_2"
+    },
+    {
+      "name": "RecipeAH3",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_3"
+    },
+    {
+      "name": "RecipeAH4",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_4"
+    },
+    {
+      "name": "RecipeAH5",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_5"
+    },
+    {
+      "name": "RecipeAH21",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_21"
+    },
+    {
+      "name": "RecipeAH41",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ah_41"
+    },
+    {
+      "name": "RecipeAHa",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_ha"
+    },
+    {
+      "name": "RecipeAHb",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_hb"
+    },
+    {
+      "name": "RecipeAHc",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_hc"
+    },
+    {
+      "name": "RecipeAHd",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_hd"
+    },
+    {
+      "name": "RecipeAHe",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_he"
+    },
+    {
+      "name": "RecipeAHba",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_hba"
+    },
+    {
+      "name": "RecipeAHda",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_a_hda"
+    },
+    {
+      "name": "Recipecc1",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipecc_1"
+    },
+    {
+      "name": "Recipecc2",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipecc_2"
+    },
+    {
+      "name": "Recipecc3",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipecc_3"
+    },
+    {
+      "name": "RecipeAHS1",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ahs_1"
+    },
+    {
+      "name": "RecipeAHS2",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ahs_2"
+    },
+    {
+      "name": "RecipeAHS3",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ahs_3"
+    },
+    {
+      "name": "RecipeAHS4",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ahs_4"
+    },
+    {
+      "name": "Item10",
+      "type": "item",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_10"
+    },
+    {
+      "name": "StraightArmor",
+      "type": "armor",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "StraightArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_armor_body_recipe"
+    },
+    {
+      "name": "StraightArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_armor_leggings_recipe"
+    },
+    {
+      "name": "StraightArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_armor_boots_recipe"
+    },
+    {
+      "name": "Recipe20SH",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_20_sh"
+    },
+    {
+      "name": "StraightPridePickaxe",
+      "type": "tool",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_pickaxe"
+    },
+    {
+      "name": "StraightPrideAxe",
+      "type": "tool",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_axe"
+    },
+    {
+      "name": "StraightPrideSword",
+      "type": "tool",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_sword"
+    },
+    {
+      "name": "StraightPrideShovel",
+      "type": "tool",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_shovel"
+    },
+    {
+      "name": "StraightPrideHoe",
+      "type": "tool",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_hoe"
+    },
+    {
+      "name": "StraightPridePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_pickaxe_recipe"
+    },
+    {
+      "name": "StraightPrideAxeRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_axe_recipe"
+    },
+    {
+      "name": "StraightPrideSwordRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_sword_recipe"
+    },
+    {
+      "name": "StraightPrideShovelRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_shovel_recipe"
+    },
+    {
+      "name": "StraightPrideHoeRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_pride_hoe_recipe"
+    },
+    {
+      "name": "Recipe83",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_83"
+    },
+    {
+      "name": "Recipe84",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_84"
+    },
+    {
+      "name": "StraightOre",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_ore"
+    },
+    {
+      "name": "StraightBlock",
+      "type": "block",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_block"
+    },
+    {
+      "name": "StraightOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_ore_block_recipe"
+    },
+    {
+      "name": "StraightBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_block_ore_recipe"
+    },
+    {
+      "name": "StraightOreSmelting",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "straight_ore_smelting"
+    },
+    {
+      "name": "Blast1",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_1"
+    },
+    {
+      "name": "Smelt1",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smelt_1"
+    },
+    {
+      "name": "Item17",
+      "type": "item",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_17"
+    },
+    {
+      "name": "Recipe34",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_34"
+    },
+    {
+      "name": "Recipe342",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_342"
+    },
+    {
+      "name": "Blockcumzone87",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_87"
+    },
+    {
+      "name": "Blockcumzone89",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_89"
+    },
+    {
+      "name": "RecipePS",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_ps"
+    },
+    {
+      "name": "Blockcumzone86",
+      "type": "block",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockcumzone_86"
+    },
+    {
+      "name": "Block81",
+      "type": "block",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_81"
+    },
+    {
+      "name": "Block79",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_79"
+    },
+    {
+      "name": "Block77",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_77"
+    },
+    {
+      "name": "Block76",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_76"
+    },
+    {
+      "name": "Block75",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_75"
+    },
+    {
+      "name": "Block74",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_74"
+    },
+    {
+      "name": "Block73",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_73"
+    },
+    {
+      "name": "Block72",
+      "type": "block",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_72"
+    },
+    {
+      "name": "Recipe100",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_100"
+    },
+    {
+      "name": "Recipe99",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_99"
+    },
+    {
+      "name": "Recipe98",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_98"
+    },
+    {
+      "name": "Recipe97",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_97"
+    },
+    {
+      "name": "Recipe96",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_96"
+    },
+    {
+      "name": "Recipe95",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_95"
+    },
+    {
+      "name": "Recipe94",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_94"
+    },
+    {
+      "name": "Recipe93",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_93"
+    },
+    {
+      "name": "Recipe92",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_92"
+    },
+    {
+      "name": "Recipe91",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_91"
+    },
+    {
+      "name": "Recipe90",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_90"
+    },
+    {
+      "name": "Recipe89",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_89"
+    },
+    {
+      "name": "Recipe88",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_88"
+    },
+    {
+      "name": "RecipeSC",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc"
+    },
+    {
+      "name": "RecipeSC1",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_1"
+    },
+    {
+      "name": "RecipeSC2",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_2"
+    },
+    {
+      "name": "RecipeSC3",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_3"
+    },
+    {
+      "name": "RecipeSC4",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_4"
+    },
+    {
+      "name": "RecipeSC5",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_5"
+    },
+    {
+      "name": "RecipeSC6",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_6"
+    },
+    {
+      "name": "RecipeSC7",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_7"
+    },
+    {
+      "name": "RecipeSC8",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_8"
+    },
+    {
+      "name": "RecipeSC9",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_9"
+    },
+    {
+      "name": "RecipeSC10",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_10"
+    },
+    {
+      "name": "RecipeSC11",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_11"
+    },
+    {
+      "name": "RecipeSC12",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_12"
+    },
+    {
+      "name": "Block5",
+      "type": "block",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_5"
+    },
+    {
+      "name": "Block50",
+      "type": "block",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_50"
+    },
+    {
+      "name": "RecipeSC14",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_14"
+    },
+    {
+      "name": "RecipeSC15",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_15"
+    },
+    {
+      "name": "Block1",
+      "type": "block",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_1"
+    },
+    {
+      "name": "Block2",
+      "type": "block",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_2"
+    },
+    {
+      "name": "Block3",
+      "type": "block",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_3"
+    },
+    {
+      "name": "RecipeSC16",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_16"
+    },
+    {
+      "name": "RecipeSC17",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_17"
+    },
+    {
+      "name": "Block6",
+      "type": "block",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_6"
+    },
+    {
+      "name": "Block9",
+      "type": "block",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_9"
+    },
+    {
+      "name": "Reci",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reci"
+    },
+    {
+      "name": "Reci2",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reci_2"
+    },
+    {
+      "name": "RecipeSC19",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_19"
+    },
+    {
+      "name": "RecipeSC20",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_20"
+    },
+    {
+      "name": "RecipeSC21",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sc_21"
+    },
+    {
+      "name": "Disc1",
+      "type": "musicdisc",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_1"
+    },
+    {
+      "name": "Kianna",
+      "type": "livingentity",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kianna"
+    },
+    {
+      "name": "Dildo1",
+      "type": "block",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dildo_1"
+    },
+    {
+      "name": "Item87",
+      "type": "item",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_87"
+    },
+    {
+      "name": "Recipe23",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_23"
+    },
+    {
+      "name": "Entity7",
+      "type": "livingentity",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_7"
+    },
+    {
+      "name": "Entity8",
+      "type": "livingentity",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_8"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "piano1",
+      "files": [
+        "video-1638643110"
+      ],
+      "category": "neutral",
+      "subtitle": "Creamy Music"
+    },
+    {
+      "name": "jizzardhurt1",
+      "files": [
+        "jizzardhurt1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "jizzarddeath",
+      "files": [
+        "jizzarddeath1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "jizzardambient",
+      "files": [
+        "jizzardambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "reneehurt1",
+      "files": [
+        "reneehurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "reneeambient1",
+      "files": [
+        "reneeambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "reneedeath1",
+      "files": [
+        "reneedeath1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kyrahurt1",
+      "files": [
+        "kyrahurt1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kyraambient1",
+      "files": [
+        "kyraambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kyradeath1",
+      "files": [
+        "kyradeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kittenhurt",
+      "files": [
+        "kittenhurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kittendeath",
+      "files": [
+        "kittendeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kittenambient",
+      "files": [
+        "kittenambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bullambient",
+      "files": [
+        "bullambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bulldeath",
+      "files": [
+        "bulldeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bullhurt",
+      "files": [
+        "bullhurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sugmahurt",
+      "files": [
+        "sugmahurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sugmaambient",
+      "files": [
+        "sugmaambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sugmadeath",
+      "files": [
+        "sugmadeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bigballs1",
+      "files": [
+        "3_big_balls_revamped_better_quality"
+      ],
+      "category": "music",
+      "subtitle": "Big Daddy Music"
+    },
+    {
+      "name": "blackairforces1",
+      "files": [
+        "digbargayraps-_black_air_force_energy_ft._kolossalkocks"
+      ],
+      "category": "neutral",
+      "subtitle": "Large Zaddy Music"
+    },
+    {
+      "name": "aidsmusic1",
+      "files": [
+        "aidsmusic"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "untoldstory",
+      "files": [
+        "untold_story_of_jerome"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "kiannadeath",
+      "files": [
+        "kiandeath1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kiannahurt",
+      "files": [
+        "kianhurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "kiannaambient",
+      "files": [
+        "kianlive1"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "retradambient",
+      "files": [
+        "retradambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "retraddeath",
+      "files": [
+        "retraddeath"
+      ],
+      "category": "neutral",
+      "subtitle": "Autistic Kid Dying"
+    },
+    {
+      "name": "retradhurt",
+      "files": [
+        "retradhurt"
+      ],
+      "category": "neutral",
+      "subtitle": "FAS child screaming"
+    },
+    {
+      "name": "jeromeambient",
+      "files": [
+        "jeromeambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "jeromedeath",
+      "files": [
+        "jeromedeath"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "jeromehurt",
+      "files": [
+        "jeromehurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.cumzone.aids_wood_leaves": "AidsWood Leaves",
+      "block.cumzone.herpes_wood_button": "HerpesWood Button",
+      "block.cumzone.blockcumzone_13": "Cobbled Petrastone",
+      "block.cumzone.blockcumzone_12": "Petrastone",
+      "block.cumzone.blockcumzone_11": "Rotten Aids",
+      "block.cumzone.blockcumzone_10": "Altanium Door",
+      "item.cumzone.condom_armor_leggings": "Condom Leggings",
+      "subtitles.sugmadeath": "",
+      "subtitles.kiannadeath": "",
+      "subtitles.kittenhurt": "",
+      "entity.cumzone.entity_5": "RedBull",
+      "subtitles.retradhurt": "FAS child screaming",
+      "entity.cumzone.entity_4": "Discord Kitten",
+      "item.cumzone.altanium_hoe": "Altanium Hoe",
+      "entity.cumzone.entity_3": "Kyra",
+      "entity.cumzone.entity_2": "Renee",
+      "entity.cumzone.entity_8": "Requis",
+      "entity.cumzone.entity_7": "Retrad",
+      "subtitles.kyrahurt1": "",
+      "block.cumzone.cockwood_fence": "Cockwood Fence",
+      "block.cumzone.cockwood_button": "Cockwood Button",
+      "block.cumzone.altanium_ore": "Altanium Ore",
+      "entity.cumzone.entity_1": "Jizzard",
+      "biome.cumzone.biome_5": "herpes heights",
+      "biome.cumzone.biome_4": "aids gulch",
+      "advancements.begone_thot.descr": "Enter the cumzone",
+      "block.cumzone.block_81": "Petrastone Brick Slab",
+      "subtitles.blackairforces1": "Large Zaddy Music",
+      "item.cumzone.disc_1.desc": "A Tale of Old",
+      "item.cumzone.condom_hoe": "Condom Hoe",
+      "item.cumzone.straight_armor_leggings": "Straight Pride Leggings",
+      "item.cumzone.dimension_1": "Explosive flint \u0026 steel",
+      "item.cumzone.dimension_2": "Pure Aids",
+      "block.cumzone.herpes_wood_wood": "Herpes Wood",
+      "subtitles.jizzarddeath": "",
+      "block.cumzone.herpes_wood_stairs": "HerpesWood Stairs",
+      "subtitles.aidsmusic1": "",
+      "biome.cumzone.biome_3test": "Biome 3test",
+      "item.cumzone.altanium_armor_leggings": "Altanium Leggings",
+      "item.cumzone.entity_8_spawn_egg": "Requis Spawn Egg",
+      "subtitles.bulldeath": "",
+      "item.cumzone.altanium_sword": "Altanium Sword",
+      "item.cumzone.straight_armor_helmet": "Straight Pride Helmet",
+      "block.cumzone.blockcumzone_17": "Rotten Herpes",
+      "item.cumzone.entity_5_spawn_egg": "RedBull Spawn Egg",
+      "block.cumzone.blockcumzone_16": "Herpes Covered Dirt block",
+      "block.cumzone.blockcumzone_15": "Aids Covered Dirt block",
+      "block.cumzone.blockcumzone_14": "Crabs Infested Dirt",
+      "item.cumzone.condom_armor_boots": "Condom Boots",
+      "advancements.advancement_1.descr": "Enter the Woman dimension",
+      "item.cumzone.disc_1": "The Untold Story of Jerome",
+      "subtitles.retraddeath": "Autistic Kid Dying",
+      "item.cumzone.straight_pride_hoe": "StraightPride Hoe",
+      "block.cumzone.herpes_wood_planks": "HerpesWood Planks",
+      "item.cumzone.altanium_armor_helmet": "Altanium Helmet",
+      "subtitles.jeromeambient": "",
+      "item.cumzone.enity_6_spawn_egg": "Sugma Birb Spawn Egg",
+      "item.cumzone.altanium_armor_chestplate": "Altanium Chestplate",
+      "block.cumzone.cockwood_stairs": "Cockwood Stairs",
+      "entity.cumzone.kianna": "Kianna",
+      "block.cumzone.straight_block": "Block of Straight",
+      "block.cumzone.blockcumzone_86": "Petrastone Brick Stairs",
+      "block.cumzone.herpes_wood_pressure_plate": "HerpesWood Pressure Plate",
+      "block.cumzone.blockcumzone_89": "Petrastone Bricks",
+      "subtitles.jeromedeath": "",
+      "block.cumzone.blockcumzone_87": "Cumstone Bricks",
+      "block.cumzone.fluidcumzone_1": "Fluidcumzone 1",
+      "block.cumzone.block_79": "Petrastone Brick Wall",
+      "block.cumzone.block_75": "Cobbled Cumstone Slab",
+      "block.cumzone.cockwood_slab": "Cockwood Slab",
+      "block.cumzone.aids_wood_pressure_plate": "AidsWood Pressure Plate",
+      "block.cumzone.block_76": "Cobbled Cumstone Stairs",
+      "block.cumzone.aids_wood_wood": "Aids Wood",
+      "block.cumzone.block_77": "Cobbled Petrastone Stairs",
+      "item.cumzone.altanium_ingot": "Altanium Ingot",
+      "block.cumzone.block_72": "Cobbled Cumstone Wall",
+      "block.cumzone.block_73": "Cobbled Petrastone Wall",
+      "block.cumzone.cockwood_fence_gate": "Cockwood Fence Gate",
+      "item.cumzone.altanium_shovel": "Altanium Shovel",
+      "block.cumzone.block_74": "Cobbled Petrastone Slab",
+      "item.cumzone.straight_pride_sword": "StraightPride Sword",
+      "subtitles.bullambient": "",
+      "subtitles.reneedeath1": "",
+      "item.cumzone.entity_3_spawn_egg": "Kyra Spawn Egg",
+      "block.cumzone.aids_wood_planks": "AidsWood Planks",
+      "fluid.cumzone.fluidcumzone_1": "Fluidcumzone 1",
+      "subtitles.kiannahurt": "",
+      "item.cumzone.altanium_armor_boots": "Altanium Boots",
+      "item.cumzone.condom_armor_chestplate": "Condom Chestplate",
+      "subtitles.jizzardambient": "",
+      "subtitles.retradambient": "",
+      "item.cumzone.condom_pickaxe": "Condom Pickaxe",
+      "block.cumzone.aids_wood_log": "AidsWood Log",
+      "item.cumzone.straight_pride_axe": "Straight Pride Axe",
+      "block.cumzone.herpes_wood_fence": "HerpesWood Fence",
+      "advancements.begone_thot.title": "A World of Pleasure",
+      "subtitles.bigballs1": "Big Daddy Music",
+      "block.cumzone.blockcumzone": "Kasu dirt block",
+      "subtitles.jizzardhurt1": "",
+      "block.cumzone.lapis": "Cumstone Lapis Ore",
+      "block.cumzone.latex_ore": "Latex Ore",
+      "subtitles.kittendeath": "",
+      "item.cumzone.item_1": "Used Condom",
+      "subtitles.sugmahurt": "",
+      "block.cumzone.herpes_wood_slab": "HerpesWood Slab",
+      "item.cumzone.item_7": "Herpes Vaccine",
+      "item.cumzone.item_9": "Used Herpes Needle",
+      "item.cumzone.item_8": "Aids Vaccine",
+      "item.cumzone.entity_2_spawn_egg": "Renee Spawn Egg",
+      "item.cumzone.altanium_pickaxe": "Altanium Pickaxe",
+      "item.cumzone.condom_sword": "Condom Sword",
+      "block.cumzone.blockcumzone_2": "Kasu dirt",
+      "block.cumzone.blockcumzone_1": "Cumstone",
+      "block.cumzone.blockcumzone_4": "Pubes",
+      "block.cumzone.aids_wood_fence_gate": "AidsWood Fence Gate",
+      "block.cumzone.blockcumzone_3": "Cock wood log",
+      "subtitles.kyradeath1": "",
+      "block.cumzone.blockcumzone_6": "Latex Block",
+      "block.cumzone.blockcumzone_5": "Kasu Podzol",
+      "block.cumzone.block_50": "Cumstone Slab",
+      "subtitles.reneehurt1": "",
+      "block.cumzone.blockcumzone_8": "Cobbled Cumstone",
+      "block.cumzone.blockcumzone_7": "Cockwood Door",
+      "block.cumzone.aids_wood_fence": "AidsWood Fence",
+      "item.cumzone.cumzoneitem_1": "Golden Brick",
+      "block.cumzone.blockcumzone_9": "Golden Bricks",
+      "block.cumzone.herpes_wood_leaves": "HerpesWood Leaves",
+      "subtitles.untoldstory": "",
+      "subtitles.bullhurt": "",
+      "biome.cumzone.biomemod_1": "Smooth hills",
+      "biome.cumzone.biomemod_2": "Splooge ocean",
+      "item.cumzone.altanium_axe": "Altanium Axe",
+      "block.cumzone.aids_wood_button": "AidsWood Button",
+      "item.cumzone.condom_armor_helmet": "Condom Helmet",
+      "item.cumzone.straight_pride_shovel": "StraightPride Shovel",
+      "block.cumzone.cockwood_pressure_plate": "Cockwood Pressure Plate",
+      "item.cumzone.entity_1_spawn_egg": "Jizzard Spawn Egg",
+      "block.cumzone.cockwood_planks": "Cockwood Planks",
+      "block.cumzone.aids_wood_slab": "AidsWood Slab",
+      "item.cumzone.straight_armor_boots": "Straight Pride Boots",
+      "subtitles.kiannaambient": "",
+      "item.cumzone.item_10": "Straight Pride Ingot",
+      "block.cumzone.herpes_wood_log": "HerpesWood Log",
+      "subtitles.kyraambient1": "",
+      "item.cumzone.item_17": "Straight Pride Essence",
+      "subtitles.piano1": "Creamy Music",
+      "subtitles.jeromehurt": "",
+      "subtitles.kittenambient": "",
+      "item.cumzone.entity_4_spawn_egg": "Discord Kitten Spawn Egg",
+      "subtitles.reneeambient1": "",
+      "biome.cumzone.garbagedump": "GARBAGEDUMP",
+      "block.cumzone.cockwood_wood": "Cock Wood",
+      "entity.cumzone.enity_6": "Sugma Birb",
+      "item.cumzone.condom_shovel": "Condom Shovel",
+      "block.cumzone.herpes_wood_fence_gate": "HerpesWood Fence Gate",
+      "item.cumzone.item_89": "Used Aids Needle",
+      "item.cumzone.fluidcumzone_1_bucket": "Cum bucket",
+      "item.cumzone.straight_armor_chestplate": "Straight Pride Chestplate",
+      "item.cumzone.item_87": "Pure Herpes",
+      "block.cumzone.aids_wood_stairs": "AidsWood Stairs",
+      "item.cumzone.kianna_spawn_egg": "Kianna Spawn Egg",
+      "item.cumzone.entity_7_spawn_egg": "Retrad Spawn Egg",
+      "subtitles.sugmaambient": "",
+      "block.cumzone.block_1": "Cumstone Brick Stairs",
+      "block.cumzone.dildo_1": "Dildo",
+      "item.cumzone.condom_axe": "Condom Axe",
+      "block.cumzone.block_7": "Compressed Aids",
+      "item.cumzone.straight_pride_pickaxe": "Straight Pride Pickaxe",
+      "block.cumzone.straight_ore": "Straight Pride Ore",
+      "block.cumzone.block_6": "Petrastone Stairs",
+      "block.cumzone.block_9": "Petrastone Slab",
+      "advancements.advancement_1.title": "Going in Raw",
+      "block.cumzone.block_8": "Compressed Herpes",
+      "block.cumzone.block_3": "Cumstone Brick Wall",
+      "block.cumzone.block_2": "Cumstone Brick Slab",
+      "block.cumzone.altanium_block": "Block of Altanium",
+      "block.cumzone.block_5": "Cumstone Stairs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cumzone",
+    "modName": "Cumzone",
+    "version": "1.0.0",
+    "author": "Bryce, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.cumzone",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

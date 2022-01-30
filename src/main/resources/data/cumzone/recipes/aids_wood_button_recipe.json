@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cumzone:aids_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "cumzone:aids_wood_button",
+    "count": 1
+  }
+}

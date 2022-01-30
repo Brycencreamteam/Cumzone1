@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "cumzone:blockcumzone_12"
+    },
+    "4": {
+      "item": "cumzone:blockcumzone_12"
+    },
+    "5": {
+      "item": "cumzone:blockcumzone_12"
+    },
+    "6": {
+      "item": "cumzone:blockcumzone_12"
+    },
+    "7": {
+      "item": "cumzone:blockcumzone_12"
+    },
+    "8": {
+      "item": "cumzone:blockcumzone_12"
+    }
+  },
+  "result": {
+    "item": "cumzone:block_6",
+    "count": 4
+  }
+}

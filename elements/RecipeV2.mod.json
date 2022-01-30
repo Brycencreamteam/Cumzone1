@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:Item89"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.EGG"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:Item8"
+    },
+    "name": "recipe_v_2",
+    "namespace": "mod"
+  }
+}

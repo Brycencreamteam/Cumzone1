@@ -1,0 +1,180 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 131,
+          "y": 43
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 131,
+          "y": 69
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 131,
+          "y": 94
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 275,
+          "y": 43
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 275,
+          "y": 68
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 274,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Merchant",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Merchant",
+          "x": 189,
+          "y": 40
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "imported_piskel_-_2021-12-26t185341.158.png",
+          "use1Xscale": false,
+          "name": "imported_piskel_-_2021-12-26t185341.158.png",
+          "x": 196,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lapis_lazuli.png",
+          "use1Xscale": false,
+          "name": "lapis_lazuli.png",
+          "x": 155,
+          "y": 43
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "iron_ingot.png",
+          "use1Xscale": false,
+          "name": "iron_ingot.png",
+          "x": 252,
+          "y": 68
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gunpowder.png",
+          "use1Xscale": false,
+          "name": "gunpowder.png",
+          "x": 155,
+          "y": 93
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "imported_piskel_-_2021-12-26t191602.788.png",
+          "use1Xscale": false,
+          "name": "imported_piskel_-_2021-12-26t191602.788.png",
+          "x": 252,
+          "y": 43
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "imported_piskel_-_2021-12-26t191723.060.png",
+          "use1Xscale": true,
+          "name": "imported_piskel_-_2021-12-26t191723.060.png",
+          "x": 251,
+          "y": 93
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "imported_piskel_-_2021-12-06t182006.707.png",
+          "use1Xscale": false,
+          "name": "imported_piskel_-_2021-12-06t182006.707.png",
+          "x": 154,
+          "y": 69
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

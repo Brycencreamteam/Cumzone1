@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cumzone:blocks/imported_piskel_-_2021-12-05t151732.092",
+    "particle": "cumzone:blocks/imported_piskel_-_2021-12-05t151732.092"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cumzone:blockcumzone_6"
+    }
+  ],
+  "result": {
+    "item": "cumzone:item_1",
+    "count": 9
+  }
+}

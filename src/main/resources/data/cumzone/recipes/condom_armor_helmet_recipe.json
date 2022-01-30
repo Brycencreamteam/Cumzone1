@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:item_1"
+    },
+    "1": {
+      "item": "cumzone:item_1"
+    },
+    "2": {
+      "item": "cumzone:item_1"
+    },
+    "3": {
+      "item": "cumzone:item_1"
+    },
+    "5": {
+      "item": "cumzone:item_1"
+    }
+  },
+  "result": {
+    "item": "cumzone:condom_armor_helmet",
+    "count": 1
+  }
+}

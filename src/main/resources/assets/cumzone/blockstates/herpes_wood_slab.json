@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cumzone:block/herpes_wood_slab"
+    },
+    "type=top": {
+      "model": "cumzone:block/herpes_wood_slab_top"
+    },
+    "type=double": {
+      "model": "cumzone:block/herpes_wood_slab_full"
+    }
+  }
+}

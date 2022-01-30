@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cumzone:block/dimension_2_portal_ew"
+    },
+    "axis=x": {
+      "model": "cumzone:block/dimension_2_portal_ns"
+    }
+  }
+}

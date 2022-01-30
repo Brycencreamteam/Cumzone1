@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Biome3test"
+      },
+      {
+        "value": "CUSTOM:Biomemod1"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Blockcumzone1"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Fluidcumzone1"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "portalParticles": {
+      "value": "DRAGON_BREATH"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Explosive flint & steel",
+    "igniterTab": {
+      "value": "MISC"
+    },
+    "texture": "imported_piskel_-_2021-12-04t035905.130",
+    "portalTexture": "imported_piskel_-_2021-12-24t020136.551",
+    "enablePortal": true
+  }
+}

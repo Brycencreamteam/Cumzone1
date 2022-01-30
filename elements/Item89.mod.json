@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel_-_2021-12-23t004121.129",
+    "customModelName": "Normal",
+    "name": "Used Aids Needle",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Please do not re-use this."
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false
+  }
+}

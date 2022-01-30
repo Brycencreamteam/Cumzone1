@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cumzone:altanium_ingot"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "minecraft:flint_and_steel",
+    "count": 1
+  }
+}

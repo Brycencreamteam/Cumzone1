@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:cockwood_planks"
+    },
+    "1": {
+      "item": "cumzone:cockwood_planks"
+    },
+    "2": {
+      "item": "cumzone:cockwood_planks"
+    },
+    "3": {
+      "item": "cumzone:cockwood_planks"
+    },
+    "4": {
+      "item": "cumzone:cockwood_planks"
+    },
+    "5": {
+      "item": "cumzone:cockwood_planks"
+    }
+  },
+  "result": {
+    "item": "cumzone:blockcumzone_7",
+    "count": 3
+  }
+}

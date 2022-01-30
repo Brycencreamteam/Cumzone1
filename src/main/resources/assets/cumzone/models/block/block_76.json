@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cumzone:blocks/imported_piskel_-_2021-12-05t151732.092",
+    "top": "cumzone:blocks/imported_piskel_-_2021-12-05t151732.092",
+    "side": "cumzone:blocks/imported_piskel_-_2021-12-05t151732.092"
+  }
+}

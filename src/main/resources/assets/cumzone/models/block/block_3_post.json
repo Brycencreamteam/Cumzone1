@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cumzone:blocks/stone_bricks1",
+    "particle": "cumzone:blocks/stone_bricks1"
+  }
+}

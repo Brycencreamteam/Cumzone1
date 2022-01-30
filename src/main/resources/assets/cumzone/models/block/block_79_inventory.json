@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cumzone:blocks/imported_piskel_-_2022-01-03t001400.665",
+    "particle": "cumzone:blocks/imported_piskel_-_2022-01-03t001400.665"
+  }
+}

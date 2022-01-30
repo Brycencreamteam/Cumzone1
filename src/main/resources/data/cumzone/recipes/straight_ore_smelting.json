@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "cumzone:straight_ore"
+  },
+  "result": {
+    "item": "cumzone:item_17"
+  }
+}

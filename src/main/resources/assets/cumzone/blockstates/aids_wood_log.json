@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cumzone:block/aids_wood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cumzone:block/aids_wood_log"
+    },
+    "axis=z": {
+      "model": "cumzone:block/aids_wood_log",
+      "x": 90
+    }
+  }
+}

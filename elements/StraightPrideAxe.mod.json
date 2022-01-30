@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel_-_2022-01-02t042659.977",
+    "customModelName": "Normal",
+    "name": "Straight Pride Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 30,
+    "efficiency": 50.0,
+    "attackSpeed": 1.0,
+    "enchantability": 140,
+    "damageVsEntity": 30.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Item10"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

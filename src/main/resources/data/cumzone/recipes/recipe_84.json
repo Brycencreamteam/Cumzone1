@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:item_10"
+    },
+    "1": {
+      "item": "cumzone:item_10"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cumzone:straight_pride_hoe",
+    "count": 1
+  }
+}

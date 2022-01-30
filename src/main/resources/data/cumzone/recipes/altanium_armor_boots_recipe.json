@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cumzone:altanium_ingot"
+    },
+    "2": {
+      "item": "cumzone:altanium_ingot"
+    },
+    "3": {
+      "item": "cumzone:altanium_ingot"
+    },
+    "5": {
+      "item": "cumzone:altanium_ingot"
+    }
+  },
+  "result": {
+    "item": "cumzone:altanium_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HerpesWoodStairs"
+    },
+    "name": "herpes_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

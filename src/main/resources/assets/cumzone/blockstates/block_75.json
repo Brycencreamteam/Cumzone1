@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cumzone:block/block_75"
+    },
+    "type=top": {
+      "model": "cumzone:block/block_75_top"
+    },
+    "type=double": {
+      "model": "cumzone:block/block_75_full"
+    }
+  }
+}

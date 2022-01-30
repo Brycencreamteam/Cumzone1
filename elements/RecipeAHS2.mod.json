@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:AltaniumIngot"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HerpesWoodPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SHIELD"
+    },
+    "name": "recipe_ahs_2",
+    "namespace": "mod"
+  }
+}

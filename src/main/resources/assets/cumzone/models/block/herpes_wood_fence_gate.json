@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "cumzone:blocks/imported_piskel_-_2021-12-31t032706.026"
+  }
+}

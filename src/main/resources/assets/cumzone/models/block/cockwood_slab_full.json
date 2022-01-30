@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cumzone:blocks/imported_piskel_-_2021-12-05t022952.291",
+    "top": "cumzone:blocks/imported_piskel_-_2021-12-05t022952.291",
+    "side": "cumzone:blocks/imported_piskel_-_2021-12-05t022952.291"
+  }
+}

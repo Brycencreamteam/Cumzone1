@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Blockcumzone89"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:Blockcumzone86"
+    },
+    "name": "recipe_sc_10",
+    "namespace": "mod"
+  }
+}

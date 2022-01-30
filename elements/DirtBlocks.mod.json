@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Blockcumzone"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone2"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone16"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone15"
+      },
+      {
+        "value": "CUSTOM:Blockcumzone14"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

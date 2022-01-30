@@ -1,0 +1,107 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "herpes heights",
+    "groundBlock": {
+      "value": "CUSTOM:Blockcumzone16"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Blockcumzone14"
+    },
+    "airColor": {
+      "value": -10092493,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:aidsmusic1"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "EXTREME_HILLS",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.7999999999999999,
+    "heightVariation": 2.0,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 5,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:HerpesWoodLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:HerpesWoodLeaves"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:Kianna"
+        },
+        "minGroup": 4,
+        "maxGroup": 13,
+        "weight": 400,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

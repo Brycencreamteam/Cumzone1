@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "cumzone:blocks/imported_piskel_-_2021-12-31t025823.772"
+  }
+}

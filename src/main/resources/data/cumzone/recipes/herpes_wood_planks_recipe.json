@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:herpeswood_log"
+    }
+  ],
+  "result": {
+    "item": "cumzone:herpes_wood_planks",
+    "count": 4
+  }
+}

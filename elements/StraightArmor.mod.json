@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "imported_piskel_-_2022-01-02t034125.020",
+    "enableBody": true,
+    "textureBody": "imported_piskel_-_2022-01-02t035100.766",
+    "enableLeggings": true,
+    "textureLeggings": "imported_piskel_-_2022-01-02t035754.611",
+    "enableBoots": true,
+    "textureBoots": "imported_piskel_-_2022-01-02t035711.360",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "jerk_",
+    "helmetName": "Straight Pride Helmet",
+    "bodyName": "Straight Pride Chestplate",
+    "leggingsName": "Straight Pride Leggings",
+    "bootsName": "Straight Pride Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelcz_straighthelm",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "cz_straighthelm1.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 1000,
+    "damageValueHelmet": 1000,
+    "damageValueBody": 1000,
+    "damageValueLeggings": 1000,
+    "damageValueBoots": 1000,
+    "enchantability": 90,
+    "toughness": 10.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Item10"
+      }
+    ]
+  }
+}

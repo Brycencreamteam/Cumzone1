@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CockwoodPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SHIELD"
+    },
+    "name": "recipe_2",
+    "namespace": "mod"
+  }
+}
