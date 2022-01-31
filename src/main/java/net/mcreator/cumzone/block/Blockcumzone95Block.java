@@ -2,6 +2,7 @@
 package net.mcreator.cumzone.block;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.IBlockReader;
 import net.minecraft.util.math.BlockPos;
@@ -21,12 +22,12 @@ import java.util.List;
 import java.util.Collections;
 
 @CumzoneModElements.ModElement.Tag
-public class NibaBlock extends CumzoneModElements.ModElement {
-	@ObjectHolder("cumzone:niba")
+public class Blockcumzone95Block extends CumzoneModElements.ModElement {
+	@ObjectHolder("cumzone:blockcumzone_95")
 	public static final Block block = null;
 
-	public NibaBlock(CumzoneModElements instance) {
-		super(instance, 344);
+	public Blockcumzone95Block(CumzoneModElements instance) {
+		super(instance, 345);
 	}
 
 	@Override
@@ -38,8 +39,9 @@ public class NibaBlock extends CumzoneModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("niba");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(2f, 10f).setLightLevel(s -> 0).harvestLevel(3)
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
+			setRegistryName("blockcumzone_95");
 		}
 
 		@Override

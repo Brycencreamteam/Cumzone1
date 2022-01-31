@@ -89,6 +89,7 @@ public class CumzoneModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("cumzone", "jeromeambient")));
 		sounds.put(new ResourceLocation("cumzone", "jeromedeath"), new net.minecraft.util.SoundEvent(new ResourceLocation("cumzone", "jeromedeath")));
 		sounds.put(new ResourceLocation("cumzone", "jeromehurt"), new net.minecraft.util.SoundEvent(new ResourceLocation("cumzone", "jeromehurt")));
+		sounds.put(new ResourceLocation("cumzone", "whip1"), new net.minecraft.util.SoundEvent(new ResourceLocation("cumzone", "whip1")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("cumzone").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
