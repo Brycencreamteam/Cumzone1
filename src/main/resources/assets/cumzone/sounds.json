@@ -291,5 +291,15 @@
         "stream": false
       }
     ]
+  },
+  "whip1": {
+    "category": "neutral",
+    "subtitle": "subtitles.whip1",
+    "sounds": [
+      {
+        "name": "cumzone:whip1",
+        "stream": false
+      }
+    ]
   }
 }
